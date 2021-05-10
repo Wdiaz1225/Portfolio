@@ -1,0 +1,19 @@
+div {outline-color: yellow;}
+{
+  box-shadow: 5px 10px;
+}
+h1 {
+  text-shadow: 2px 2px #0000ff;
+}
+div {
+    font-family:tahoma;
+}
+body {
+  color: Black;
+}
+
+body {background-color: navy;}
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align:center;
+}
